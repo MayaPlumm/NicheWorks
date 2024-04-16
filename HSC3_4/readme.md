@@ -6,3 +6,7 @@ Depending on the environment use:
 
 - scripts/conda_create.sh to recreate environment for the project
 - scripts/pip_create.sh to recreate environment for the project
+
+
+
+tralalalalala l
